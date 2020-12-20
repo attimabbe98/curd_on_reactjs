@@ -10,7 +10,7 @@ const About = () => {
         </p>
 
         <p className="lead">
-          this is learning time to explore new things
+          this is learning time to explore new things!
 </p>
 
            <p>     -attimabbe
