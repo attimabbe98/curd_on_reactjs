@@ -6,7 +6,7 @@ const About = () => {
       <div className="py-4">
         <h1>About Page</h1>
         <p className="lead">
-         "hope for best team!to explore something"
+         "hope for best team!to explore something special"
         </p>
 
         <p className="lead">
